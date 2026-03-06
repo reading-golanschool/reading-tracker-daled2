@@ -1,6 +1,6 @@
 // כיתה ג1
 // Replace this URL with your Google Apps Script Web App URL
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzgQsmvfrMVmRp67mjJ4MSdQthD_MI6C4Ok1OY_URqmlgU1fp1sD0ZGzEgUli8fO66iAg/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyEJi8Y9QD_8XVqiip2cujEhV6Ue9GySSpekmr_-wYdP_MbgY0LJGfukencB7HDCji-Ag/exec';
 
 // ===== INITIALIZE =====
 document.addEventListener('DOMContentLoaded', function() {
