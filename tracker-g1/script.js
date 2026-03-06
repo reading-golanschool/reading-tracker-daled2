@@ -1,8 +1,7 @@
-// נבחרת הקריאה - כיתה ג1' | JavaScript
+// כיתה ג1
+// זהו הקובץ שאחראי על שליחת הנתונים מהטופס לגיליון גוגל
 
-// ===== CONFIGURATION =====
-// Replace this URL with your Google Apps Script Web App URL
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzgQsmvfrMVmRp67mjJ4MSdQthD_MI6C4Ok1OY_URqmIgU1fp1sD0ZGzEgUli8fO66iAg/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzgQsmvfrMVmRp67mjJ4MSdQthD_MI6C4Ok1OY_URqmlgU1fp1sD0ZGzEgUli8fO66iAg/exec';
 
 // ===== INITIALIZE =====
 document.addEventListener('DOMContentLoaded', function() {
