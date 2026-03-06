@@ -1,4 +1,4 @@
-// נבחרת הקריאה - כיתה ה' | JavaScript
+// נבחרת הקריאה - כיתה ג1' | JavaScript
 
 // ===== CONFIGURATION =====
 // Replace this URL with your Google Apps Script Web App URL
